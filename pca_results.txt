@@ -1,0 +1,13 @@
+PCA performance results
+============================================================
+Descriptor folder: spatial_2x2_4bins_rgb
+Distance baseline: chi_square
+Baseline MAP: 0.198264
+
+n_comp	MAP_Euc	MAP_Mah	VarianceSum
+20	0.168308	0.149802	0.835068
+38	0.171221	0.135229	0.932841
+50	0.171155	0.127965	0.961334
+100	0.168870	0.110828	0.996939
+150	0.168514	0.106815	0.999925
+200	0.168490	0.106536	1.000000
