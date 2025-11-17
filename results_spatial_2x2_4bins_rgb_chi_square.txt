@@ -1,0 +1,10 @@
+Visual Search Results
+============================================================
+Descriptor: spatial_2x2_4bins_rgb
+Distance: chi_square
+Dimension: 256
+
+MAP: 0.0000
+P@5: 0.3526
+P@10: 0.2934
+P@20: 0.2358
